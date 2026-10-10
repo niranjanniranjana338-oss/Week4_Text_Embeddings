@@ -1,6 +1,11 @@
 sentence_1_id,sentence_2_id,sentence_1,sentence_2,cosine_similarity
-12,13,Cosine similarity measures how closely two vectors point in the same direction.,A high cosine similarity score usually indicates that two sentences have related meanings.,0.6598002
-6,19,Sentence transformers are useful for comparing the meaning of different sentences.,Transformers use attention mechanisms to capture relationships between words in a sequence.,0.64127207
-5,20,Text embeddings represent sentences as numerical vectors that capture semantic meaning.,"Embeddings are important for semantic search, document retrieval, recommendation, and RAG applications.",0.5780245
-1,16,Artificial intelligence helps computers perform tasks that normally require human intelligence.,Cybersecurity systems can use artificial intelligence to detect unusual patterns and threats.,0.565419
-1,3,Artificial intelligence helps computers perform tasks that normally require human intelligence.,Natural language processing enables computers to understand and process human language.,0.5500832
+12,13,Cosine similarity measures how closely two vectors point in the same direction.,A high cosine similarity score usually indicates that two sentences have related meanings.,0.6598001718521118
+6,19,Sentence transformers are useful for comparing the meaning of different sentences.,Transformers use attention mechanisms to capture relationships between words in a sequence.,0.6412720680236816
+5,20,Text embeddings represent sentences as numerical vectors that capture semantic meaning.,"Embeddings are important for semantic search, document retrieval, recommendation, and RAG applications.",0.5780245065689087
+1,16,Artificial intelligence helps computers perform tasks that normally require human intelligence.,Cybersecurity systems can use artificial intelligence to detect unusual patterns and threats.,0.5654190182685852
+1,3,Artificial intelligence helps computers perform tasks that normally require human intelligence.,Natural language processing enables computers to understand and process human language.,0.5500832200050354
+9,10,Python is widely used for building machine learning and natural language processing applications.,"Students can use Python to preprocess text, create embeddings, and analyze similarity.",0.5445095300674438
+5,18,Text embeddings represent sentences as numerical vectors that capture semantic meaning.,Data preprocessing improves the quality of text before it is used by an embedding model.,0.5420417785644531
+11,20,A vector database stores numerical representations of documents for efficient similarity search.,"Embeddings are important for semantic search, document retrieval, recommendation, and RAG applications.",0.5301293730735779
+1,2,Artificial intelligence helps computers perform tasks that normally require human intelligence.,Machine learning allows systems to learn patterns from data and improve their predictions.,0.5130941271781921
+8,20,Retrieval augmented generation combines document retrieval with language model generation.,"Embeddings are important for semantic search, document retrieval, recommendation, and RAG applications.",0.5129464268684387
