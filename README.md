@@ -1,4 +1,5 @@
 # Week 4 – Text Embeddings
+### Created by Niranjana R
 
 ## Task
 Generating and Comparing Text Embeddings using Sentence Transformers.
